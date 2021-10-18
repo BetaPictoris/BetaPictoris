@@ -2,7 +2,7 @@
 It's the second brightest star, yeah there is no other reason.
 
 ## So where did you get that profile picture? 
-Oh, it's easy. [Here](http://www.just-google.it?s=space%20pictures%20and%20stuff) you go! 
+Oh, it's easy. [Here](https://dribbble.com/julienc) you go! 
 
 ## What do you like to code in? 
 Python, Julia (sometimes), Java, Dart, and C(++, #).
