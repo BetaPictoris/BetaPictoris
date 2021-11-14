@@ -2,7 +2,7 @@
 It's the second brightest star, yeah there is no other reason.
 
 ## So where did you get that profile picture? 
-Oh, it's easy. [Here](https://dribbble.com/julienc) you go! 
+My old one came from [here](https://dribbble.com/julienc) and I made my current one in GIMP.  
 
 ## What do you like to code in? 
 Python, Julia (sometimes), Java, Dart, and C(++, #).
