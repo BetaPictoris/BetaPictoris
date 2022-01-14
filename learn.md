@@ -5,7 +5,7 @@ It's the second brightest star, yeah there is no other reason.
 My old one came from [here](https://dribbble.com/julienc) and I made my current one in GIMP.  
 
 ## What do you like to code in? 
-Python, Julia (sometimes), Java, Dart, and C(++, #).
+I program in C(++, #), Java, Kotlin, Go, Dart, Python, JavaScript, okay you get the point.
 
 ## Do you use email?
 Of course not! jk, [here](mailto:mrhallway@protonmail.com) it is. 
