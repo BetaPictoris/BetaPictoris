@@ -2,7 +2,8 @@
 I am *Beta Pictoris*! It would be amazing if you check out my forum, [QuadCore](https://quadcore.createaforum.com/index.php), it doens't have many members. I also have a small [Download Archive](https://dl.mrhallway.me/), I like to think of it as a database of the Internet Archive on a small scale. 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=betapictoris&show_icons=true&locale=en" alt="betapictoris" /></p>
+&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=betapictoris&show_icons=true&locale=en" alt="betapictoris" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=betapictoris&layout=compact">
 
 <!--
 <h3 align="left">Languages and Tools:</h3>
