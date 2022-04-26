@@ -3,4 +3,5 @@ I am *Beta Pictoris*! I am working on making modern tools for \*NIX like [Time L
 
 **[My dotfiles](https://github.com/betapictoris/dots)**<br>
 **[Stats](stats.md)**<br>
+**[Reach out to me](reach.md)<br>
 **[Languages and Tools](languages.md)**
