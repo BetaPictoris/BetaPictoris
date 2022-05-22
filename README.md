@@ -11,7 +11,7 @@ Wikipedia CLI  | Read Wikipedia articles through the CLI | [:green_book:](https:
 Time Left      | Display the time left of the day as a progress bar. | [:hourglass_flowing_sand:](https://github.com/BetaPictoris/timeleft)
 
 ## :speech_balloon: Where to find me
-:astronaut: He/Them
+:wave: He/Them
 
 Service   | Username
 --------- | ----------------------------------------------------
