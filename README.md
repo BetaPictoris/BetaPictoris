@@ -15,7 +15,7 @@ Time Left      | Display the time left of the day as a progress bar. | [:hourgla
 
 Service   | Username
 --------- | ----------------------------------------------------
-Email     | [`daniel@mrhallway.me`](mailto:daniel@mrhallway.me)
+Email     | [`beta@ozx.me`](mailto:beta@ozx.me)
 mas.to    | [`@beta`](https://mas.to/web/@beta)
 Twitter   | [`@BetaThing`](https://twitter.com/BetaThing)
 Discord   | `beta#4630`
