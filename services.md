@@ -1,3 +1,3 @@
 # Services
- - [Whoogle](https://search.mrhallway.me/)
- - [libreddit](https://red.mrhallway.me/)
+ - [Whoogle](https://search.ozx.me/)
+ - [libreddit](https://red.ozx.me/)
