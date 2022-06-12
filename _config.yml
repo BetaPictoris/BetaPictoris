@@ -1,0 +1,39 @@
+title: "Daniel's Site"
+email: beta@ozx.me
+author: Daniel
+description: >- # this means to ignore newlines until "baseurl:"
+  Self-hosting, programing, and tinkering.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://www.ozx.me" # the base hostname & protocol for your site, e.g. http://example.com
+
+header_pages:
+  - index.markdown
+  - about.markdown
+
+footer: 'Follow me on <a href="https://github.com/BetaPictoris/">GitHub</a>'
+
+social: 
+  twitter: BetaThing
+  github: BetaPictoris
+  discord: xSmvzVQjRP
+  stackoverflow: 15503133
+  spotify: o2grkvisqyfhs2oj05mu7amo3
+  bitcoin: bc1qd3pmf7p5g8g9yzs2z94uz4msh0m7xdc6z63wse
+  ethereum: 0x5e6564F64A8d4608174742bc05A78ba202BB0792
+
+# Build settings
+remote_theme: b2a3e8/jekyll-theme-console
+theme_config:
+  appearance: "dark" # can be "light", "dark" or "auto"
+  back_home_text: ".." # customize text for homepage link in post layout
+  date_format: "%d.%m.%y" # customize how date is formatted
+  show_description: false # show blog description in home page
+sass:
+  style: :compressed
+
+plugins:
+  - jekyll-feed
+  - jekyll-spaceship
+  - jekyll-archives
+  - jekyll-seo-tag
+  
