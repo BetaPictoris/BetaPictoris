@@ -7,8 +7,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.ozx.me" # the base hostname & protocol for your site, e.g. http://example.com
 
 header_pages:
-  - index.markdown
-  - about.markdown
+  - README.md
+  - https://blog.ozx.me/
 
 footer: 'Follow me on <a href="https://github.com/BetaPictoris/">GitHub</a>'
 
